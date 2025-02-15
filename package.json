@@ -1,0 +1,22 @@
+{
+  "name": "extensionpack-cpp",
+  "displayName": "C++ Extension Pack",
+  "description": "Extension Pack for C++ Profile",
+  "icon": "resources/cpp_icon.png",
+  "version": "0.0.1",
+  "repository": "",
+  "publisher": "lpvic",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.cpptools",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    "cschlosser.doxdocgen"
+  ]
+}
+
