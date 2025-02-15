@@ -1,6 +1,6 @@
 {
   "name": "extensionpack-cpp",
-  "displayName": "C++ Extension Pack",
+  "displayName": "C++ Collection Pack",
   "description": "Extension Pack for C++ Profile",
   "icon": "resources/cpp_icon.png",
   "version": "0.0.1",
