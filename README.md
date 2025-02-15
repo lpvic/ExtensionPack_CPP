@@ -1,7 +1,7 @@
 # Extension Pack for C++ Profile
 
 This extension pack includes my favorite extensions for my C++ profile. 
-Install after [Default Extension Pack](https://marketplace.visualstudio.com/items?itemName=lpvic.extensionpack-default)
+Install after [Default Extension Pack](https://marketplace.visualstudio.com/items?itemName=lpvic.extensionpack-default).
 
 ## Included Extensions
 + [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) C/C++ IntelliSense, debugging, and code browsing.

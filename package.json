@@ -4,7 +4,7 @@
   "description": "Extension Pack for C++ Profile",
   "icon": "resources/cpp_icon.png",
   "version": "0.0.1",
-  "repository": "",
+  "repository": "https://github.com/lpvic/ExtensionPack_CPP",
   "publisher": "lpvic",
   "engines": {
     "vscode": "^1.97.0"
